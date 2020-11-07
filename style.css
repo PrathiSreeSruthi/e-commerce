@@ -1,0 +1,61 @@
+.special{
+    margin-left:800px
+}
+@media only screen and (max-width:671px){
+    .special{
+        margin-left:none
+    }
+   
+}
+#banner_image{
+    padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url("images/intro-bg_1.jpg") no-repeat center center;
+ background-size: cover;
+ height:700px
+}
+#banner_content{
+    position: relative;
+ padding-top: 6%;
+padding-bottom: 6%;
+margin:0 auto;
+ margin-top: 12%;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+
+}
+footer{
+    background-color:#101010;
+    color:#9d9d9d;
+    font-size:14px;
+    text-align:center;
+    bottom: 0;
+ width: 100%;
+}
+.box-a{
+    width:35%;
+    margin:20px 10px;
+    
+    text-align:center;
+    font-size:10px;
+    background-color:white;
+    border:1px solid red
+    
+    
+}
+
+.box-a img{
+    width:200px;
+    height:150px;
+   
+
+
+}
+.abc img{
+    width:200px;
+    height:150px
+}
+
